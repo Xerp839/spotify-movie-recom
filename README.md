@@ -25,9 +25,7 @@ This project implements a Music Recommender System using Streamlit and Spotipy, 
    ```bash
    pip install -r requirements.txt
 
-
-
-
+ ## How to use 
 
 
 
